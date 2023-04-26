@@ -1,6 +1,5 @@
 package javajungsuk.ch8;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 /**
  * 예외 떠넘기기 throws
